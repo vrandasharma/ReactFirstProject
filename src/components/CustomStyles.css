@@ -1,0 +1,48 @@
+.textFieldCustom{
+    border-top: black;
+    border-bottom: black;
+    border-width: 2pt;
+    border-style: solid;
+    margin: 2%;
+  }
+  
+.divstyle{
+  height: 300px;
+  
+}
+
+.commentsdivstyle{
+  height: 300px;
+  margin-top: 7px;
+  background-color: lightgrey;
+}
+
+.buttonstyle{
+  background-color: #01a9b4;
+  border-color: transparent;
+  color: black;
+  font-size: 14px;
+}
+
+.buttoncontainerstyle{
+  text-align: center;
+}
+
+.headerstyle{
+  margin-top: 10px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.rowstyle{
+  margin: 3px;
+}
+
+.colstyle{
+  margin: 10px;
+  font-size: 14px;
+}
+
+.progressBarDiv{
+  margin: 6%;
+}
